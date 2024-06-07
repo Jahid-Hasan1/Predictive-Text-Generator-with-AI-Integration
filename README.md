@@ -14,3 +14,9 @@ language model capable of predicting the next word in a sequence.
 2. When a user enters a partial sentence, your predictive text model should predict the next
 word(s), and ChatGPT should generate the rest of the sentence.
 3. Ensure a seamless interaction between your model and ChatGPT.
+
+## Contributions
+- Fork the repo
+- Create feature branch
+- Add your changes
+- Submit a pull request
